@@ -18,7 +18,7 @@ The API requires you specify a set of valid request headers before it'll respond
 * User is api
 * Password is testapi!
 
-The task is to create a command line application using C++/Qt, Android SDK, X Code or a basic script in PHP. The application should accept a store ID as a parameter. The application should then display the following information about the store.
+The task is to create a command line application using basic script in PHP. The application should accept a store ID as a parameter. The application should then display the following information about the store.
 
 * Name
 * Address
