@@ -3,7 +3,7 @@ Itsyourskills Developer API Test
 
 # Coding Test
 
-Touch2Success has a Test API available at https://test-api.t2scdn.com/ that you can use to get a stores information.
+Itsyourskills has a Test API available at https://test-api.t2scdn.com/ that you can use to get a stores information.
 
 As an example, https://test-api.t2scdn.com/?store=123 returns a the details of store, including the contact information.
 
@@ -40,7 +40,7 @@ The task is to create a command line application using C++/Qt, Android SDK, X Co
 
 As a **user running the command line application**<br />
 I can **supply a valid store ID on the command line**<br />
-So that **I can query the Touch2Success API for results**
+So that **I can query the Itsyourskills API for results**
 
 #### Acceptance criteria
 
@@ -91,7 +91,7 @@ Please answer the following questions in a markdown file called `Answers.md`.
 * Did you have time to complete the coding test? What would you add to your solution if you had more time?
 * What's your favourite programming language? Why?
 * How would you track down a performance bottleneck in an application? Have you ever had to do this?
-* How would you improve the Touch2Success API?
+* How would you improve the Itsyourskills API?
 * Please describe yourself using either XML or JSON.
 
 
